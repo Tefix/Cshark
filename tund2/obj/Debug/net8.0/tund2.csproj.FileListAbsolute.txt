@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\tund2\tund2\bin\Debug\net8.0\tund2.exe
+C:\Users\opilane\source\repos\tund2\tund2\bin\Debug\net8.0\tund2.deps.json
+C:\Users\opilane\source\repos\tund2\tund2\bin\Debug\net8.0\tund2.runtimeconfig.json
+C:\Users\opilane\source\repos\tund2\tund2\bin\Debug\net8.0\tund2.dll
+C:\Users\opilane\source\repos\tund2\tund2\bin\Debug\net8.0\tund2.pdb
+C:\Users\opilane\source\repos\tund2\tund2\obj\Debug\net8.0\tund2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\tund2\tund2\obj\Debug\net8.0\tund2.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\tund2\tund2\obj\Debug\net8.0\tund2.AssemblyInfo.cs
+C:\Users\opilane\source\repos\tund2\tund2\obj\Debug\net8.0\tund2.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\tund2\tund2\obj\Debug\net8.0\tund2.dll
+C:\Users\opilane\source\repos\tund2\tund2\obj\Debug\net8.0\refint\tund2.dll
+C:\Users\opilane\source\repos\tund2\tund2\obj\Debug\net8.0\tund2.pdb
+C:\Users\opilane\source\repos\tund2\tund2\obj\Debug\net8.0\tund2.genruntimeconfig.cache
+C:\Users\opilane\source\repos\tund2\tund2\obj\Debug\net8.0\ref\tund2.dll
