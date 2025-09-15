@@ -1,0 +1,5 @@
+Mark; hinded: 5, 3, 5; keskmine: 4,33
+Roma; hinded: 4, 2, 3; keskmine: 3,00
+Martin; hinded: 1, 1, 1; keskmine: 1,00
+
+Parim õpilane: Mark (4,33)
