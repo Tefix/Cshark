@@ -136,7 +136,7 @@ namespace Program.cs
 
     class Valuuta
     {
-        public string Nimetus { get; set; }
+            public string Nimetus { get; set; }
         public double KurssEurSuhte { get; set; }
 
         public Valuuta(string nimetus, double kurss)
@@ -146,3 +146,4 @@ namespace Program.cs
         }
     }
 }
+
