@@ -1,0 +1,4 @@
+C:\Users\opilane\source\repos\Tund4\obj\Debug\net8.0\inimene.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\Tund4\obj\Debug\net8.0\inimene.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Tund4\obj\Debug\net8.0\inimene.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Tund4\obj\Debug\net8.0\inimene.csproj.CoreCompileInputs.cache
