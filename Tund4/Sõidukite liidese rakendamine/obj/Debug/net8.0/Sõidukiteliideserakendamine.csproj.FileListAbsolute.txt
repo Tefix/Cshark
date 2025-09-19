@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\Sõidukite liidese rakendamine\bin\Debug\net8.0\Sõidukiteliideserakendamine.exe
+C:\Users\opilane\source\repos\Sõidukite liidese rakendamine\bin\Debug\net8.0\Sõidukiteliideserakendamine.deps.json
+C:\Users\opilane\source\repos\Sõidukite liidese rakendamine\bin\Debug\net8.0\Sõidukiteliideserakendamine.runtimeconfig.json
+C:\Users\opilane\source\repos\Sõidukite liidese rakendamine\bin\Debug\net8.0\Sõidukiteliideserakendamine.dll
+C:\Users\opilane\source\repos\Sõidukite liidese rakendamine\bin\Debug\net8.0\Sõidukiteliideserakendamine.pdb
+C:\Users\opilane\source\repos\Sõidukite liidese rakendamine\obj\Debug\net8.0\Sõidukiteliideserakendamine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\Sõidukite liidese rakendamine\obj\Debug\net8.0\Sõidukiteliideserakendamine.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Sõidukite liidese rakendamine\obj\Debug\net8.0\Sõidukiteliideserakendamine.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Sõidukite liidese rakendamine\obj\Debug\net8.0\Sõidukiteliideserakendamine.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Sõidukite liidese rakendamine\obj\Debug\net8.0\Sõidukiteliideserakendamine.dll
+C:\Users\opilane\source\repos\Sõidukite liidese rakendamine\obj\Debug\net8.0\refint\Sõidukiteliideserakendamine.dll
+C:\Users\opilane\source\repos\Sõidukite liidese rakendamine\obj\Debug\net8.0\Sõidukiteliideserakendamine.pdb
+C:\Users\opilane\source\repos\Sõidukite liidese rakendamine\obj\Debug\net8.0\Sõidukiteliideserakendamine.genruntimeconfig.cache
+C:\Users\opilane\source\repos\Sõidukite liidese rakendamine\obj\Debug\net8.0\ref\Sõidukiteliideserakendamine.dll
