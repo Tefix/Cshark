@@ -1,0 +1,15 @@
+C:\Users\opilane\Downloads\Kartavec-snake-master\Kartavec-snake-master\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\opilane\Downloads\Kartavec-snake-master\Kartavec-snake-master\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\opilane\Downloads\Kartavec-snake-master\Kartavec-snake-master\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\opilane\Downloads\Kartavec-snake-master\Kartavec-snake-master\Snake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\opilane\Downloads\Kartavec-snake-master\Kartavec-snake-master\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Downloads\Kartavec-snake-master\Kartavec-snake-master\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\opilane\Downloads\Kartavec-snake-master\Kartavec-snake-master\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\opilane\source\repos\snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\opilane\source\repos\snake\Snake\bin\Debug\Snake.exe
+C:\Users\opilane\source\repos\snake\Snake\bin\Debug\Snake.pdb
+C:\Users\opilane\source\repos\snake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\snake\Snake\obj\Debug\Snake.exe.config
+C:\Users\opilane\source\repos\snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\snake\Snake\obj\Debug\Snake.exe
+C:\Users\opilane\source\repos\snake\Snake\obj\Debug\Snake.pdb
